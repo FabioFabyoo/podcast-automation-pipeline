@@ -1,0 +1,5 @@
+{
+    "ftp_host": "ftp.esempio.com",
+    "ftp_user": "tuo_utente",
+    "ftp_pass": "tua_password"
+}
